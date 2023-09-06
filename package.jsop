@@ -1,0 +1,25 @@
+
+{
+  "name": "fz-home",
+  "version": "1.0.0",
+  "description": "falsezero landing page",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l3x3d/fz-home.git"
+  },
+  "author": "l3x3d",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/l3x3d/fz-home/issues"
+  },
+  "homepage": "https://github.com/l3x3d/fz-home#readme",
+  "dependencies": {
+    "update": "^0.7.4"
+  },
+  "devDependencies": {}
+}
+
