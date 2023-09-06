@@ -5,7 +5,7 @@
   "description": "falsezero landing page",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "standard && node my-tests.js"
   },
   "repository": {
     "type": "git",
